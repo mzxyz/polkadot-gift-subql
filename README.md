@@ -1,3 +1,5 @@
+The project migrated to https://github.com/subquery/polkadot-gift-subql
+
 # Subql Project for Polkadot Gift
 
 - [introducing-polkadot-kusama-gifts](https://polkadot.network/blog/introducing-polkadot-kusama-gifts/)
